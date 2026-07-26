@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgendTime.API/AgendTime.API.csproj" />
+  <Project Path="AgendTime.Application/AgendTime.Application.csproj" />
+  <Project Path="AgendTime.Domain/AgendTime.Domain.csproj" />
+  <Project Path="AgendTime.Infrastructure/AgendTime.Infrastructure.csproj" />
+</Solution>
